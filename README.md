@@ -2,8 +2,8 @@
 
 Este repositório contém os códigos desenvolvidos no curso **"C#: Criando sua primeira aplicação"** da Alura.  
 
-## 📜 Certificado  
-[![Ver Certificado](link-do-certificado)](link-do-certificado)  
+## 📜 Certificado 🏆
+[Ver Certificado](https://cursos.alura.com.br/user/renangf4/course/csharp-criando-primeira-aplicacao/certificate)
 
 ## 🚀 O que foi aprendido?
 ✅ Instalação e configuração do ambiente de desenvolvimento  
